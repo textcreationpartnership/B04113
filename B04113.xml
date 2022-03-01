@@ -1,0 +1,418 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A lamentable ballad of fair Rosamond, King Henry the Second's concubine, who was put to death by Queen Elinor, in the famous bower of Woodstock, near Oxford. To the tune of, Flying fame, &amp;c.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04113</idno>
+            <idno type="STC">Wing L255A</idno>
+            <idno type="STC">ESTC R179931</idno>
+            <idno type="EEBO-CITATION">47012499</idno>
+            <idno type="OCLC">ocm 47012499</idno>
+            <idno type="VID">174466</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04113)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174466)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2690:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A lamentable ballad of fair Rosamond, King Henry the Second's concubine, who was put to death by Queen Elinor, in the famous bower of Woodstock, near Oxford. To the tune of, Flying fame, &amp;c.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by and for W.O. ...</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>[1659?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication suggested by Wing (2nd ed.)</note>
+                  <note>Contains 1 illustration.</note>
+                  <note>"Licens'd and enter'd according to order."</note>
+                  <note>Reproduction of original in: University of Glasgow. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Clifford, Rosamond, d. 1176? --  Poetry.</term>
+               <term>Eleanor, --  of Aquitaine, Queen, consort of Henry II, King of England, 1122?-1204 --  Poetry.</term>
+               <term>Henry --  II, --  King of England, 1133-1189 --  Poetry.</term>
+               <term>Ballads, English --  17th century.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:174466:1"/>
+            <!-- PDF PAGE 5 -->
+            <head>A Lamentable BALLAD Fair ROSAMOND, King <hi>Henry</hi> the Second's Concubine, Who was put to Death by Queen <hi>ELINOR,</hi> in the Famous Bower of <hi>Wood<g ref="char:EOLhyphen"/>ſtock</hi> near <hi>Oxford.</hi>
+            </head>
+            <opener>To the Tune of, <hi>Flying Fame,</hi> &amp;c.</opener>
+            <argument>
+               <p>Licens'd and Enter'd according to Order.</p>
+            </argument>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>WHen as King <hi>Henry</hi> rul'd this Land,</l>
+               <l>the Second of that Name,</l>
+               <l>Beſides the Queen he dearly lov'd,</l>
+               <l>a fair and comely Dame:</l>
+               <l>Moſt peerleſs was her beauty found,</l>
+               <l>her favour and her face,</l>
+               <l>A ſweeter Creature in this World,</l>
+               <l>did never Prince imbrace:</l>
+            </lg>
+            <lg>
+               <l>Her criſped locks like threads of gold,</l>
+               <l>appear'd to each Man's ſight,</l>
+               <l>Her comely eyes like orient pearls,</l>
+               <l>did caſt a heavenly light:</l>
+               <l>The blood within her criſtal cheeks,</l>
+               <l>did ſuch a colour drive,</l>
+               <l>As though the Lilly and the Roſe,</l>
+               <l>for maſterſhip did ſtrive,</l>
+            </lg>
+            <lg>
+               <l>Yea, <hi>Roſamond,</hi> fair <hi>Roſamond,</hi>
+               </l>
+               <l>her name was called ſo,</l>
+               <l>To whome Dame <hi>Elinor</hi> our Queen,</l>
+               <l>was known a deadly Foe,</l>
+               <l>The King therefore for her Defence,</l>
+               <l>againſt the furious Queen,</l>
+               <l>At <hi>Woodſtock</hi> builded ſuch a Bower,</l>
+               <l>the like was never ſeen:</l>
+            </lg>
+            <lg>
+               <l>Moſt curiouſly that Bower was built,</l>
+               <l>of Stone and Timber ſtrong,</l>
+               <l>A hundred and fifty Doors</l>
+               <l>did to this Bower belong,</l>
+               <l>And they ſo cunningly contriv'd,</l>
+               <l>with turnings round about,</l>
+               <l>That none but with a Clew of Thread,</l>
+               <l>could enter in or out.</l>
+            </lg>
+            <lg>
+               <l>And for his Love and Lady's ſake,</l>
+               <l>that was ſo fair and bright,</l>
+               <l>The keeping of this Bower he gave</l>
+               <l>unto a valiant Knight:</l>
+               <l>But Fortune that doth often frown,</l>
+               <l>where it before did ſmile,</l>
+               <l>The King's Delight, the Lady's Ioy</l>
+               <l>full ſoon ſhe did beguile.</l>
+            </lg>
+            <lg>
+               <l>For why, the King's Vngracious Son,</l>
+               <l>whom he did high advance,</l>
+               <l>Againſt his Father raiſed Wars,</l>
+               <l>within the Realm of <hi>France;</hi>
+               </l>
+               <l>But yet before our Comely King</l>
+               <l>the <hi>Engliſh</hi> Land forſook,</l>
+               <l>Of <hi>Roſamond</hi> his Lady fair</l>
+               <l>his Farewel th<gap reason="illegible: in crease" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s he took:</l>
+            </lg>
+            <lg>
+               <l>My <hi>Roſamond,</hi> my only Roſe,</l>
+               <l>that pleaſeſt beſt mine eye,</l>
+               <l>The faireſt Flower in all the World,</l>
+               <l>to feed my fantaſie:</l>
+               <l>The Flower of my affected Heart,</l>
+               <l>whoſe ſweetneſs doth excel,</l>
+               <l>My Royal Roſe a hundred times,</l>
+               <l>I bid thee now farewel.</l>
+            </lg>
+            <lg>
+               <l>For I muſt leave my faireſt Flower,</l>
+               <l>my ſweeteſt Ro<gap reason="illegible: in crease" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e a ſpace,</l>
+               <l>And croſs the Seas to famous <hi>France,</hi>
+               </l>
+               <l>proud Rebels to abaſe:</l>
+               <l>But yet my Roſe b<gap reason="illegible: in crease" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſure thou ſhalt</l>
+               <l>my coming ſhortly ſee,</l>
+               <l>And in my heart w<gap reason="illegible: in crease" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>en hence I am,</l>
+               <l>I'll bear my Roſe with me.</l>
+            </lg>
+            <lg>
+               <l>When <hi>Roſamond,</hi> that Lady bright,</l>
+               <l>did hear the King ſay ſo,</l>
+               <l>The ſorrow of her <gap reason="illegible: in crease" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rieved heart</l>
+               <l>her outward loo<gap reason="illegible: in crease" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s did ſhow;</l>
+               <l>And from her clear <gap reason="illegible: in crease" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd criſtal eyes</l>
+               <l>the tears guſht out apace,</l>
+               <l>Which like the ſilv<gap reason="illegible: in crease" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> pearled dew</l>
+               <l>ran down her co<gap reason="illegible: in crease" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ely face.</l>
+            </lg>
+            <lg>
+               <l>Her lips like to th<gap reason="illegible: in crease" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> corral red,</l>
+               <l>did wax both wa<gap reason="illegible: in crease" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and pale,</l>
+               <l>And for the ſorrow <gap reason="illegible: in crease" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e conceiv'd,</l>
+               <l>her vital ſpirits <gap reason="illegible: in crease" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>id fail:</l>
+               <l>And falling down al<gap reason="illegible: in crease" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in a ſwound,</l>
+               <l>before King <hi>Henry</hi>'s face,</l>
+               <l>Full oft within his Pincely Arms,</l>
+               <l>her body did imbr<gap reason="illegible: in crease" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ce.</l>
+            </lg>
+            <lg>
+               <l>And twenty times with watery eyes</l>
+               <l>he kiſt her tender ch<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ek.</l>
+               <l>Vntil he had reviv'd again</l>
+               <l>her ſenſe mild and meek:</l>
+               <l>Why grieves my Roſe, my ſweeteſt Roſe?</l>
+               <l>the king did often ſ<gap reason="illegible: in crease" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y.</l>
+               <l>Becauſe, quoth ſhe, to bloody Wars</l>
+               <l>my Lord muſt paſs away.</l>
+            </lg>
+            <lg>
+               <l>But ſince your Grace in Forraign Coaſts</l>
+               <l>amongſt your Foes unkind,</l>
+               <l>Muſt go to hazerd life and limb,</l>
+               <l>why ſhould I ſtay behind?</l>
+               <l>Nay, rather let me like a Page</l>
+               <l>thy Sword and Target bear,</l>
+               <l>That on my breaſt the Blow may light,</l>
+               <l>that ſhould offend you there.</l>
+            </lg>
+            <lg>
+               <l>O let me in your Royal Tent</l>
+               <l>prepare your Bed at night,</l>
+               <l>And with ſweet baths refreſh your Grace</l>
+               <l>at your return from Fight;</l>
+               <l>So I your Preſence may injoy,</l>
+               <l>no toyl I will refuſe,</l>
+               <l>But wanting you my Life is Death.</l>
+               <l>which doth, true Love abuſe.</l>
+            </lg>
+            <lg>
+               <l>Content thyſelf, my deareſt Love,</l>
+               <l>thy reſt at home ſhall be,</l>
+               <l>In <hi>England</hi>'s ſweet and pleaſant Soil,</l>
+               <l>for Travel fits not thee:</l>
+               <l>Fair Ladies brook no bloody Wars,</l>
+               <l>ſweet Peace their pleaſures breed,</l>
+               <l>The Nouriſher of Heart's Content,</l>
+               <l>which Fancy firſt did feed.</l>
+            </lg>
+            <lg>
+               <l>My Roſe ſhall reſt in <hi>Woodſtock</hi>-Bower,</l>
+               <l>with Muſick ſweetly dight,</l>
+               <l>Whilſt I among the piercing Pikes</l>
+               <l>againſt my Foes do fight:</l>
+               <l>My Roſe in Robes of Pearl and Gold,</l>
+               <l>with Diamonds richly dight,</l>
+               <l>Shall dance the Galliards of my Love,</l>
+               <l>while I my Foes do ſmite.</l>
+            </lg>
+            <lg>
+               <l>And you Sir <hi>Thomas</hi> whom I truſt,</l>
+               <l>to be my Love's Defence,</l>
+               <l>Be careful of my gallant Roſe,</l>
+               <l>when I am parted hence:</l>
+               <l>And therewithal he fetcht a ſigh,</l>
+               <l>as though his heart would break;</l>
+               <l>And <hi>Roſamond</hi> for very Grief,</l>
+               <l>not one plain word could ſpeak:</l>
+            </lg>
+            <lg>
+               <l>And at their parting well they might,</l>
+               <l>in heart be grieved ſore,</l>
+               <l>After that day fair <hi>Roſamond,</hi>
+               </l>
+               <l>the King did ſee no more:</l>
+               <l>For when his Grace was paſt the Seas,</l>
+               <l>and into <hi>France</hi> was gone,</l>
+               <l>Queen <hi>Elinor</hi> with envious heart,</l>
+               <l>to <hi>Woodſtock</hi> came anon.</l>
+            </lg>
+            <lg>
+               <l>And forth ſhe calls this truſty Knight,</l>
+               <l>which kept this curious Bower,</l>
+               <l>Who with his Clew of twined Thread,</l>
+               <l>came from the famous Flower:</l>
+               <l>And when that they had wounded him,</l>
+               <l>The Queen his Thread did get,</l>
+               <l>And went where Lady <hi>Roſamond</hi>
+               </l>
+               <l>was like an Angel ſet.</l>
+            </lg>
+            <lg>
+               <l>But when the Queen with ſtedfaſt eye,</l>
+               <l>beheld her heavenly face,</l>
+               <l>She was amazed in her mind</l>
+               <l>at her exceeding Grace:</l>
+               <l>Caſt off from thee theſe Robes (ſhe ſaid)</l>
+               <l>that rich and coſtly be.</l>
+               <l>And drink thou up this deadly Draught,</l>
+               <l>which I have brought to thee.</l>
+            </lg>
+            <lg>
+               <l>But preſently upon her knees</l>
+               <l>ſweet <hi>Roſamond</hi> did fall,</l>
+               <l>And Pardon of the Queen ſhe crav'd</l>
+               <l>for her offences all:</l>
+               <l>Take pity on my youthful years,</l>
+               <l>(fair <hi>Roſamond</hi> did cry)</l>
+               <l>And let me not with Poiſon ſtrong</l>
+               <l>enforced be to die.</l>
+            </lg>
+            <lg>
+               <l>I will renounce my ſinful Life,</l>
+               <l>and in ſome Cloyſter 'bide</l>
+               <l>Or elſe be baniſhed if you pleaſe,</l>
+               <l>to range the World ſo wide,</l>
+               <l>And for the Fault that I have done,</l>
+               <l>though I was fore'd thereto,</l>
+               <l>Preſerve my life and puniſh me,</l>
+               <l>as you think good to do.</l>
+            </lg>
+            <lg>
+               <l>And with theſe words her lilly hands,</l>
+               <l>ſhe wrung full often there,</l>
+               <l>And down along her comely face,</l>
+               <l>proceeded many a tear:</l>
+               <l>But nothing could this furious Queen,</l>
+               <l>there with appeaſed be,</l>
+               <l>The Cup of deadly Poyſon ſtrong,</l>
+               <l>as ſhe ſat on her knee,</l>
+            </lg>
+            <lg>
+               <l>She gave this comely Dame to drink,</l>
+               <l>who took it in her hand,</l>
+               <l>And from her bended knee aroſe,</l>
+               <l>and on her feet did ſtand:</l>
+               <l>And caſting up her eyes to Heaven,</l>
+               <l>ſhe did for mercy call,</l>
+               <l>And drinking up the Poyſon ſtrong,</l>
+               <l>her Life ſhe loſt withal.</l>
+            </lg>
+            <lg>
+               <l>And when that Death through every limb,</l>
+               <l>had done her greateſt ſpight,</l>
+               <l>Her chiefeſt Foes did there confeſs,</l>
+               <l>ſhe was a glorious <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ight:</l>
+               <l>Her Body then they did entomb,</l>
+               <l>when Life was fled away,</l>
+               <l>At <hi>Woodſtock,</hi> near to <hi>Oxford</hi> Town,</l>
+               <l>as may be ſeen this Day.</l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed by and for <hi>W. O.</hi> and are to be ſold by the <hi>Bookſellers</hi> of <hi>Pye-corner</hi> and <hi>London-bridge.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
